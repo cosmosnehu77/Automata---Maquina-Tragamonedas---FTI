@@ -24,8 +24,8 @@ El sistema incluye:
 ## Instalación y Uso
 1. Clonar este repositorio:
    ```bash
-   got clone 'a'
-   cd 'a'
+   git clone https://github.com/cosmosnehu77/Automata---Maquina-Tragamonedas---FTI
+   cd Automata---Maquina-Tragamonedas---
 2. Instalar dependencias
    ```bash
    pip install -r requirements.txt
