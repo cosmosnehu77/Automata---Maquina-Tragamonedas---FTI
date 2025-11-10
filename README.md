@@ -29,7 +29,12 @@ El sistema incluye:
 2. Instalar dependencias
    ```bash
    pip install -r requirements.txt
-3.Ejecutar la aplicación:
-  ```bash
+3. Ejecutar la aplicación:
+   ```bash
    streamlit run app.py
 4. Abrí el navegador en http://localhost:8501 y probá la simulación
+
+---
+## Autores
+- García Nehuén Agustín
+- Valenciano Samuel
